@@ -1,0 +1,82 @@
+h1 {
+    background-color: lightblue;
+    border-radius: 50px;
+    text-align: center;
+    border: 3px red solid;
+    color: darkblue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.brown {
+    color: brown;
+}
+
+.you {
+    color: darkblue;
+    font-weight: 500;
+}
+
+.green {
+    color: red;
+    font-weight: 600;
+}
+
+.red {
+    color: red;
+}
+
+.yellow_2 {
+    color: yellow;
+}
+
+.green_2 {
+    color: green;
+}
+
+.gray {
+    color: gray;
+}
+
+caption {
+    background-color: yellow;
+    color: black;
+}
+
+th {
+    background-color: red;
+    color: black;
+}
+
+.color {
+    background-color: green;
+    color: black;
+}
+
+td {
+    color: black;
+    background-color: blueviolet;
+}
+
+table {
+    background-color: wheat;
+}
+
+.cama {
+    background-color: black;
+    width: 50px;
+    height: 20px;
+}
+.btn{
+    width: 35px;
+    height: 15px;
+}
+  button{
+    color: black;
+    background-color: #7fff00 ;
+    width: 300px;
+    height: 30px;
+    border: 1px #7fff00 solid;
+  } 
